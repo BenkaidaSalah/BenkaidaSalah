@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @BenkaidaSalah
-- 🌱 I’m currently Ai Agents,Django,Fast Api 
-- 💞️ I’m looking to collaborate on ...
-- my youtube channel : https://www.youtube.com/@benkaidasalah9821
-- 📫 How to reach me -->  din https://www.linkedin.com/in/benkaida-salah-890861233/
-- 
+# 👋 Hi, I’m Benkaida Salah
+> “Code is not just about syntax. It’s about solving problems, creating value, and making a difference.”
+🚀 Passionate about building smart digital solutions using **AI Agents**, **Django**, and **FastAPI**.  
+💡 I enjoy creating efficient back-end systems, experimenting with AI technologies, and solving real-world problems with code.
 
-<!---
-BenkaidaSalah/BenkaidaSalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 Currently Learning & Working On:
+- Autonomous AI Agents & tools
+- Scalable APIs using FastAPI
+- Web development with Django
+- AI integration into modern applications
+
+### 🤝 Let’s Collaborate On:
+- Open-source projects in AI or web development  
+- Innovative ideas that combine Python, AI, and automation  
+- Building useful tools, bots, or platforms that make life easier
+
+### 📺 My YouTube Channel  
+🎥 [@benkaidasalah9821](https://www.youtube.com/@benkaidasalah9821)  
+I share tech content, motivational videos, and project showcases to inspire and help others grow.
+
+### 📫 Let’s Connect  
+🔗 [LinkedIn – Benkaida Salah](https://www.linkedin.com/in/benkaida-salah-890861233/)  
+💼 Open to collaboration, freelance projects, or tech discussions.
+
+---
+
+
+
